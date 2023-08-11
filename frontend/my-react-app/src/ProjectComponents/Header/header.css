@@ -1,0 +1,26 @@
+.header-items{
+    
+    margin: 5px;
+    color: black;
+    font-size: 24px;
+    background-color: transparent;
+    border: 0px;
+    cursor: pointer;
+    
+}
+.header-items2{
+    margin: 5px;
+    color:  rgb(18, 223, 226);
+    font-size: 24px;
+    background-color: transparent;
+    border: 0px;
+    cursor: pointer;
+    text-decoration: underline;
+    
+}
+.header-items2:hover{
+    color: rgb(18, 223, 226);
+}
+li{
+    list-style-type: none;
+}
